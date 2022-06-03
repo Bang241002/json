@@ -1,0 +1,14 @@
+body{
+
+    background-color: rgba(12, 101, 138, 0.585);
+}
+.center{
+    text-align: center;
+    margin-top: 100px;
+    margin-left:250px;
+    margin-right: 250px;
+    border: 2px solid blue;
+}
+.curo{
+    color: rgb(177, 14, 14);
+}
